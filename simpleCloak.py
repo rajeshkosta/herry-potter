@@ -5,7 +5,7 @@ import time
 from pygame import mixer  # Load the popular external library
 
 mixer.init()
-mixer.music.load('harry-potter-theme.mp3')
+mixer.music.load('harry-potter-theme.mp4')
 mixer.music.play()
 
 
